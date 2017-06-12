@@ -6,5 +6,5 @@ This contains my assignments:
 - [Assignment 4 (week 6)](https://github.com/Rstuiver97/Assignments/blob/master/Assignment%204%20(Week%206).ipynb)
 - [Assignment 5 (week 8)](https://github.com/Rstuiver97/Assignments/blob/master/Assignment%205%20(Week%208).ipynb)
 - [Final assignment Python](https://github.com/Rstuiver97/Assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
-- [Final assignment R]
+- [Final assignment R](https://github.com/Rstuiver97/Assignments/blob/master/OECD_R_exam.ipynb)
 
